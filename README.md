@@ -2,7 +2,7 @@ PHC Core integration/staging repository
 =====================================
 
 
-More information at [PHC.io](http://www.Profithunterscoin.com) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org), join ou group at [Discord] ().
+More information at [PHC Website](http://www.Profithunterscoin.com) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org), join ou group at [Discord] ().
 
 ### Coin Specs
 
